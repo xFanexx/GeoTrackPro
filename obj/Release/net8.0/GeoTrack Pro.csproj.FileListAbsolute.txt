@@ -1,0 +1,17 @@
+C:\Users\Max\Desktop\GeoTrack Pro\GeoTrack Pro\bin\Release\net8.0\GeoTrack Pro.exe
+C:\Users\Max\Desktop\GeoTrack Pro\GeoTrack Pro\bin\Release\net8.0\GeoTrack Pro.deps.json
+C:\Users\Max\Desktop\GeoTrack Pro\GeoTrack Pro\bin\Release\net8.0\GeoTrack Pro.runtimeconfig.json
+C:\Users\Max\Desktop\GeoTrack Pro\GeoTrack Pro\bin\Release\net8.0\GeoTrack Pro.dll
+C:\Users\Max\Desktop\GeoTrack Pro\GeoTrack Pro\bin\Release\net8.0\GeoTrack Pro.pdb
+C:\Users\Max\Desktop\GeoTrack Pro\GeoTrack Pro\bin\Release\net8.0\Newtonsoft.Json.dll
+C:\Users\Max\Desktop\GeoTrack Pro\GeoTrack Pro\obj\Release\net8.0\GeoTrack Pro.csproj.AssemblyReference.cache
+C:\Users\Max\Desktop\GeoTrack Pro\GeoTrack Pro\obj\Release\net8.0\GeoTrack Pro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Desktop\GeoTrack Pro\GeoTrack Pro\obj\Release\net8.0\GeoTrack Pro.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\GeoTrack Pro\GeoTrack Pro\obj\Release\net8.0\GeoTrack Pro.AssemblyInfo.cs
+C:\Users\Max\Desktop\GeoTrack Pro\GeoTrack Pro\obj\Release\net8.0\GeoTrack Pro.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\GeoTrack Pro\GeoTrack Pro\obj\Release\net8.0\GeoTrack.05FEC804.Up2Date
+C:\Users\Max\Desktop\GeoTrack Pro\GeoTrack Pro\obj\Release\net8.0\GeoTrack Pro.dll
+C:\Users\Max\Desktop\GeoTrack Pro\GeoTrack Pro\obj\Release\net8.0\refint\GeoTrack Pro.dll
+C:\Users\Max\Desktop\GeoTrack Pro\GeoTrack Pro\obj\Release\net8.0\GeoTrack Pro.pdb
+C:\Users\Max\Desktop\GeoTrack Pro\GeoTrack Pro\obj\Release\net8.0\GeoTrack Pro.genruntimeconfig.cache
+C:\Users\Max\Desktop\GeoTrack Pro\GeoTrack Pro\obj\Release\net8.0\ref\GeoTrack Pro.dll
